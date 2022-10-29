@@ -5,4 +5,4 @@ The data extract code in this repository was sourced and adapted from the Google
 
 https://github.com/google-research/google-research/tree/master/simulation_research/next_day_wildfire_spread
 
-Huot F., Hu R. L., Goyal N., Sankar T., Ihme M. and Chen Y. F. 2022. Next Day Wildfire Spread: A Machine Learning Dataset to Predict Wildfire Spreading From Remote-Sensing Data. IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-13, 2022, Art no. 4412513, doi: 10.1109/TGRS.2022.3192974.
+F. Huot, R. L. Hu, N. Goyal, T. Sankar, M. Ihme, and Y.-F. Chen, “Next Day Wildfire Spread: A Machine Learning Data Set to Predict Wildfire Spreading from Remote-Sensing Data”, arXiv preprint, 2021.
